@@ -72,18 +72,3 @@ echo "
 
 "
 brew install postgresql@14
-
-echo "
-
-|||||||||||||||||||||||||||||
-|                           |
-|  Installing Elasticsearch | 
-|                           |
-|||||||||||||||||||||||||||||
-
-"
-cd /usr/local/Homebrew/Library/Taps/elastic/homebrew-tap
-git fetch origin pull/144/head:patch-1
-git checkout patch-1
-brew tap elastic/tap
-brew install elastic/tap/elasticsearch-full
