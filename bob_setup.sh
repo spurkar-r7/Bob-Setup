@@ -72,3 +72,25 @@ echo "
 
 "
 brew install postgresql@14
+
+echo "
+
+|||||||||||||||||||||||||
+|                       |
+|  Installing iterm2    | 
+|                       |
+|||||||||||||||||||||||||
+
+"
+brew install --cask iterm2
+
+echo "
+
+||||||||||||||||||||||||||||||||||
+|                                |
+|  Installing Visual Studio Code | 
+|                                |
+||||||||||||||||||||||||||||||||||
+
+"
+brew install --cask visual-studio-code
