@@ -9,7 +9,7 @@ applications onto your device
 -Git
 -Postgresql
 -iTerm2
--VS Code"
+-Visual Studio Code"
 
 
 echo "
