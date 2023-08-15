@@ -8,7 +8,8 @@ applications onto your device
 -Google Cloud
 -Git
 -Postgresql
--Elasticsearch"
+-iTerm2
+-VS Code"
 
 
 echo "
